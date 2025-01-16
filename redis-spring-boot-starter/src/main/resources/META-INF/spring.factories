@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.dmm.middleware.whitelist.config.WhiteListAutoConfigure
