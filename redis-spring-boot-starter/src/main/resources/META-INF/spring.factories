@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.dmm.middleware.whitelist.config.WhiteListAutoConfigure
+# ?????????????????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.dmm.middleware.redis.config.XRedisRegisterAutoConfiguration
